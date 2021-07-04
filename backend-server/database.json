@@ -1,0 +1,60 @@
+{
+  "login": [
+    {
+      "id": 20211,
+      "username": "Clearance",
+      "password": "Morumudi",
+      "confirm_password": "Morumudi"
+    },
+    {
+      "username": "basie",
+      "password": "basetsana",
+      "confirm_password": "basetsana",
+      "id": 20212
+    }
+  ],
+  "signup": [
+    {
+      "id": 20211,
+      "name": "Clearance",
+      "surname": "Morumudi",
+      "email": "clearancemorumudi@outlook.com",
+      "contact": 769606305
+    },
+    {
+      "id": 20213,
+      "name": "",
+      "surname": "Thango",
+      "email": "Morumudi",
+      "contact": "0769606305"
+    },
+    {
+      "id": 20214,
+      "name": "Thabiso",
+      "surname": "Morumudi",
+      "email": "thabisomorumudi@gmail.com",
+      "contact": "0667834722"
+    },
+    {
+      "id": 20215,
+      "name": "Basetsana",
+      "surname": "Morumudi",
+      "email": "basie21@gmail.com",
+      "contact": "012"
+    },
+    {
+      "id": 20216,
+      "name": "Thabiso",
+      "surname": "Morumudi",
+      "email": "thabisomorumudi@gmail.com",
+      "contact": "0662348787"
+    },
+    {
+      "id": 20217,
+      "name": "Basetsana",
+      "surname": "Morumudi",
+      "email": "basie21@gmail.com",
+      "contact": "0123456789"
+    }
+  ]
+}

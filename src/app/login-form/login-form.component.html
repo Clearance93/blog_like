@@ -1,0 +1,15 @@
+<div class="container">
+    <div class="form-floating">
+        <input type="email" class="form-control" id="email" placeholder="Enter your username" name="email" [(ngModel)]=login.username >
+        <label for="floatingInput">Username</label>
+      </div>
+      <div class="form-floating">
+        <input type="password" class="form-control" id="password" [(ngModel)]="login.password" placeholder="Password" name="passowrd">
+        <label for="floatingPassword">Password</label>
+      </div>
+      <div class="form-floating">
+        <input type="password" class="form-control" id="confirm-password" placeholder="confirm password" name="confirm-password" [(ngModel)]="login.confirm_password">
+        <label for="floatingPassword">Confirm Password</label>
+        <button class="w-100 btn btn-lg btn-primary" type="submit" id="submit" (click)="loginVelidation()">Submit</button>
+      </div>
+</div>
